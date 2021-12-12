@@ -1,0 +1,24 @@
+.banner5 {
+    background-image: url(../../Images/contact.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding: 150px 0;
+}
+
+.banner5 h1 {
+    font-size: 54px;
+}
+
+.banner5 p {
+    font-size: 24px;
+    margin-bottom: 64px;
+    text-shadow: black 2px 2px;
+}
+
+.container5 {
+  width: 1040px;
+  padding: 24px;
+  margin: 0 auto;
+  text-align: center;
+}

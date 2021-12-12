@@ -1,0 +1,30 @@
+.container {
+  width: 1040px;
+  padding: 24px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.titre {
+  text-align: center;
+  font-size: 24px;
+  font-family: 'Caviar Dreams', arial;
+  color: #102845;
+}
+
+#equipe {
+  width: 700px;
+  height: 1000px;
+}
+
+@media(max-width: 900px) {
+  .container {
+    width: 700px;
+  }
+}
+
+@media(max-width: 600px) {
+  .container {
+    width: 400px;
+  }
+}

@@ -1,0 +1,45 @@
+.footer {
+	background: #102845;
+	font-family: 'Caviar Dreams', arial;
+	display: flex;
+	justify-content: space-between;
+	flex-grow: 1;
+	padding: 8px;
+}
+
+.footer h2 {
+	color: white;
+	font-size: 24px;
+}
+
+.footer a {
+	text-decoration: none;
+	color: white;
+}
+
+.footer p {
+	color: white;
+	font-size: 16px;
+}
+
+#liste-navigation {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+#liste-reseaux-sociaux {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+li {
+	margin-bottom: 15px;
+	font-size: 16px;
+}
+
+.footer img {
+	width: 180px;
+	height: 180px;
+}

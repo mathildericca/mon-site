@@ -1,0 +1,17 @@
+.banner {
+    background-image: linear-gradient(-210deg,rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.2) 70%, lightblue 98%), url(../../Images/marseille.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding: 150px 0;
+}
+
+.banner h1{
+    font-size: 54px;
+}
+
+.banner p{
+    font-size: 24px;
+    margin-bottom: 64px;
+    text-shadow: black 2px 2px;
+}

@@ -1,0 +1,42 @@
+.card img {
+	width: 132px;
+	height: 132px;
+	border-radius: 6px;
+}
+
+.card {
+	margin: 12px;
+	padding: 12px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
+	border-radius: 8px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-basis: 250px;
+	flex-grow: 1;
+}
+
+.card h1 {
+	flex-grow: 1;
+	margin-left: 20px;
+	font-size: 24px;
+}
+
+.card h2 {
+	flex-grow: 1;
+	margin-left: 20px;
+	font-size: 20px;
+	font-family: 'Caviar Dreams', arial;
+	color: #102845;
+}
+
+.card a {
+	font-family: 'Caviar Dreams', arial;
+	font-weight: 400;
+	margin-right: 20px;
+}
+
+#equipe img {
+	width: 700px;
+	height: 1000px;
+}

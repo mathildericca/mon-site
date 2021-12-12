@@ -1,0 +1,34 @@
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-grow: 1;
+	padding: 8px;
+	background: white;
+	position: fixed;
+	right: 0;
+	left: 0;
+	top: 0;
+}
+
+.navbar a {
+	font-family: 'Caviar Dreams', arial;
+	font-weight: 400;
+	text-decoration: none;
+	color: #102845;
+	font-size: 24px;
+}
+
+.navbar a:hover {
+	background: #102845;
+	color: white;
+	border: solid 1px #102845;
+	transition: 0.5s;
+	text-decoration: none;
+	border-radius: 6px;
+}
+
+.navbar img {
+	width: 40px;
+	height: 40px;
+}
